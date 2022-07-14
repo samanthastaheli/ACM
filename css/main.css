@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Quicksand:wght@400;500&family=Yanone+Kaffeesatz:wght@300;400;500&display=swap');
+body {
+    margin: auto;
+    width: 50%;
+    background-color: #F5F0FA;
+    font-family: "Lato", sans-serif;
+}
+header {
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+}
+h3 {
+    font-style: italic;
+    margin: 5px 0px 5px 0px;
+}
+h2 {
+    font-family: "Quicksand", sans-serif;
+    margin-top: 26px;
+    margin-bottom: 0px;
+}
+#title1 {
+    margin-bottom: 0px;
+}
+#title2 {
+    margin-top: 0px;
+}
+p {
+    margin-top: 12px;
+}
+main {
+    margin-bottom: 86px;
+}
