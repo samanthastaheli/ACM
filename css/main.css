@@ -73,3 +73,14 @@ a {
     color: var(--white);
     text-decoration: none;
 }
+
+
+/* Mobile CSS */
+@media only screen and (max-width: 600px) {
+    body {
+        width: auto;
+    }
+    main {
+        margin-bottom: 46px;
+    }
+    }
